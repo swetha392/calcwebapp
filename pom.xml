@@ -68,7 +68,7 @@
  <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>http://ec2-15-206-179-251.ap-south-1.compute.amazonaws.com:8081/repository/nexus-snap/</url>
+      <url>http://ec2-13-233-146-56.ap-south-1.compute.amazonaws.com:8081/repository/nexus-snap/</url>
     </snapshotRepository>
  </distributionManagement>
 
